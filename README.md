@@ -1,8 +1,12 @@
-# BingAgent
-A Streamlit app based on AutoGPT and chain-of-reasoning concepts. Uses the unofficial BingChatAPI and open-source LLMs like Vicuna.
 BingAgent
 BingAgent is a web app that lets you chat with different agents that can perform various tasks using Bing and AutoGPT. You can choose from 20 agents that can help you with research, writing, translation, teaching, reviewing, drawing, and more. You can also continue the conversation with another agent and create a recap of the chat.
 
+Table of Contents
+Installation
+Usage
+Features
+Contributing
+License
 Installation
 To install and run BingAgent, follow these steps:
 
@@ -33,3 +37,9 @@ Follow the code style and format
 Write tests and documentation for your changes
 License
 BingAgent is licensed under the MIT License - see the LICENSE file for details.
+
+Contact
+If you have any questions or feedback about BingAgent, feel free to contact me at:
+
+Email: your_email@example.com
+Twitter: @your_username
