@@ -14,7 +14,7 @@ BingAgent is a web app that lets you chat with different agents that can perform
 
 To install and run BingAgent, follow these steps:
 
-- Clone this repository: `git clone https://github.com/your_username/BingAgent.git`
+- Clone this repository: `git clone https://github.com/confusedenoch/BingAgent.git`
 - Install the required dependencies: `pip install -r requirements.txt`
 - Run the app: `streamlit run BingAgent.py`
 
