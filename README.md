@@ -1,6 +1,6 @@
-# BingAgent
+# KratosAI
 
-BingAgent is a web app that lets you chat with different agents that can perform various tasks using Bing and AutoGPT. You can choose from 20 agents that can help you with research, writing, translation, teaching, reviewing, drawing, and more. You can also continue the conversation with another agent and create a recap of the chat.
+KratosAI is a web app that lets you chat with different agents that can perform various tasks using Bing and AutoGPT. You can choose from 20 agents that can help you with research, writing, translation, teaching, reviewing, drawing, and more. You can also continue the conversation with another agent and create a recap of the chat.
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ BingAgent is a web app that lets you chat with different agents that can perform
 
 ## Installation
 
-To install and run BingAgent, follow these steps:
+To install and run KratosAI, follow these steps:
 
 - Clone this repository: `git clone https://github.com/confusedenoch/BingAgent.git`
 - Install the required dependencies: `pip install -r requirements.txt`
@@ -20,7 +20,7 @@ To install and run BingAgent, follow these steps:
 
 ## Usage
 
-To use BingAgent, follow these steps:
+To use KratosAI, follow these steps:
 
 - Select an agent from the sidebar and enter user inputs
 - Click on the continue button to choose another agent and continue the conversation
@@ -28,7 +28,7 @@ To use BingAgent, follow these steps:
 
 ## Features
 
-BingAgent has the following features:
+KratosAI has the following features:
 
 - Interactive web app for data science and machine learning projects
 - Powered by Streamlit and Bing
@@ -38,7 +38,7 @@ BingAgent has the following features:
 
 ## Contributing
 
-To contribute to BingAgent, follow these steps:
+To contribute to KratosAI, follow these steps:
 
 - Fork this repository and create a new branch
 - Make your changes and commit them with a descriptive message
